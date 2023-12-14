@@ -1,2 +1,2 @@
 # StoreApplication
-A C++ code for a store application.
+This project was implemented by two people in the Introduction to Computer Programming and Applications (CMPE 160) course at the American University of Bahrain in May 2021. The project was about making a small store with a selection of items. The items' selection and prices were in their text files, then implemented in the code using files and arrays. The entire project was made in Microsoft Visual Studio using C++.
